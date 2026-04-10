@@ -1,7 +1,7 @@
-const name = "Magreth";
-const age = 18;
-const favouriteLanguage = "Python";
+const myName = "Magreth";
+const myAge = 18;
+const myFavouriteLanguage = "Python";
 
-console.log("Name:", name);
-console.log("Age:", age);
-console.log("Favourite Programming Language:", favouriteLanguage);
+console.log("Name:", myName);
+console.log("Age:", myAge);
+console.log("Favourite Programming Language:", myFavouriteLanguage);
